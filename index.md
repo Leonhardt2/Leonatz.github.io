@@ -6,3 +6,4 @@ Jodie ist ein Charakter aus dem Videospiel "Beyond Two Souls" entwickelt von Qua
 * Spielt Elektrogitarre
 * Wurde adoptiert
 * Hat Bruder namens Aiden
+> Es wird nie vorbei sein
